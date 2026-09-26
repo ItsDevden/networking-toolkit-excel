@@ -1,5 +1,7 @@
 # Networking Toolkit
 
+Currently working on ; making it an proper exe instead of an xlsm
+
 ## Why did I make this instead of using an online tool?
 
 I’m studying to become a data technician. On a slow day at school, I wanted to challenge myself and see if I could build the tools I needed in Excel. I made this workbook for myself, learned a bit along the way, and now I use it because I’m lazy enough to automate the calculations. 😄
